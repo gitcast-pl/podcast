@@ -1,5 +1,7 @@
 # GitCast
 
+gitcast => git podcast => podcast about code review
+
 ## Tresc podcast'u
 sluzacy do komentowania ciekawych projektow w repozytoriach w formie audio
 
@@ -11,6 +13,14 @@ bo tak z reguly ucza sie programisci, przez praktyke.
 Z ksiazek, tutoriali i bezposredniu z istniejacego kodu opensource.
 
   W tym podkascie beda omawiane konkretne repozytoria, ktore zostaly napisane przez konkretnych programistow o ktorych tez bedzie w innym podkascie, ogolnym: devcast
+
+## Watpliwosci co do sensu tego podkastu na temat repozytoriow
+zastanawialem sie czy ma to sens, poniewaz omawianie temnatow z zywymi ludzmi wydaje sie bardziej ciekawe,
+jednak na co dzien sluchamy news-ow odnosnie technologii, a mam wrayenie, ze mowiac o Clean Codzie nie ma konkretnych przykladow, 
+sa to w wiekszocsci teoretyczne wywody, brakuje praktycznych omowien przykladowych dobrych istniejacych rozwiazan.
+
+Mysle ze omowienie jednego repozytorium pod konkretnym wzgledem da wiele dodatkowych informacji o tym jak robic kod review, 
+na co zwracac uwage, jak to robic aby uzyskac odpowiedni skutek.
 
 ### Tresc zebrana podczas przygotowania moze byc wykorzystana do materialu:
 + video
