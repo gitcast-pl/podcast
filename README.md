@@ -2,6 +2,18 @@
 
 gitcast => git podcast => podcast about code review
 
+
+# Na co to komu?
+komu potrzebny jest kolejny podkast
+
+Mysle, ze dla Opensource community nigdy za wiele,
+warto mowic o ideach i ludziach, ktorze te idee szerza,
+zwlaszcza ze Opensource nigdy nie bedzie tak doceniane jak powinno, gdyz darmowe nie jest tak promowane jak platne.
+
+Warto promowac projekty, ktore sa robione bezinteresownie i przynosza korzysci uzytkownikow, umozliwiajac rozwoj kazdego,
+uzytkownika i programiste.
+
+
 ## Tresc podcast'u
 sluzacy do komentowania ciekawych projektow w repozytoriach w formie audio
 
